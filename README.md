@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Saxon Sibi 👋
 
-<!--
-**saxonsibi/saxonsibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer focused on NLP, LLMs, and production-ready AI systems.
 
-Here are some ideas to get you started:
+I build intelligent applications across:
+• Legal Tech  
+• Video Intelligence  
+• Enterprise Automation  
+• Bioinformatics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### 🎥 VideoIQ
+AI-powered video intelligence system that transforms long-form videos into transcripts, structured summaries, and a chat-enabled knowledge base.
+
+**Tech Stack:** Django · React · FAISS · BGE-M3 · Cross-Encoder · Whisper · Groq  
+
+---
+
+### 📧 AI Email Automation Dashboard
+Enterprise-grade email automation system with Gmail OAuth, AI-driven composition, classification, and automated follow-up scheduling.
+
+**Tech Stack:** Flask · Gmail API · SQLAlchemy · APScheduler  
+
+---
+
+### 📄 Contract Intelligence System
+Legal AI system using Legal-BERT and PEGASUS for clause classification, risk detection, deadline extraction, and contract summarisation.
+
+**Tech Stack:** Python · Streamlit · Transformers · PyMuPDF  
+
+---
+
+### 🧬 DNA Sequence Pattern Finder
+Web-based bioinformatics tool for uploading, visualizing, and analyzing DNA sequences.
+
+**Tech Stack:** Python · JavaScript · HTML · CSS  
+
+---
+
+## 🛠 Tech Stack
+Python · SQL · Django · Flask · React  
+PyTorch · TensorFlow · Transformers · LangChain  
+scikit-learn · XGBoost · Pandas · NumPy  
+
+---
+
+## 📫 Connect with me
+• LinkedIn: https://linkedin.com/in/saxon-sibi  
+• GitHub: https://github.com/saxonsibi
